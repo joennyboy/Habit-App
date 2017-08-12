@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:2:1-32:16
+	package
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:3:11-61
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:6:9-30:23
+MERGED from [com.android.support:design:24.1.1] C:\Users\Etumusei\.android\build-cache\ba94fd6a77ee6f1e86d085480c7dc928b7b9b839\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Etumusei\.android\build-cache\fc455dd30814fb38535186f1f30aaa207ea53b5e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Etumusei\.android\build-cache\8217d9e446cd1ebb1198ff20880c71c7982edd36\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Etumusei\.android\build-cache\ff93c173ddc5a88ff650d623a0ad82887cca99b7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Etumusei\.android\build-cache\91dc113161c289fe9af95388d52a02685b18c463\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:9:13-45
+	android:supportsRtl
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:10:13-39
+	android:allowBackup
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:7:13-39
+	android:icon
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:8:13-47
+	android:theme
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.android.habittrackerapp.data.CatelogActivity
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:12:13-19:24
+	android:label
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:14:17-49
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:13:17-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:15:17-18:33
+action#android.intent.action.MAIN
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:16:21-72
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:16:29-70
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:17:21-80
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:17:31-78
+activity#com.example.android.habittrackerapp.data.EditorActivity
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:20:13-29:24
+	android:label
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:22:17-72
+	android:parentActivityName
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:24:17-61
+	android:theme
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:23:17-51
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:21:17-46
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:26:17-28:56
+	android:value
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:28:21-53
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml:27:21-67
+uses-sdk
+INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.1.1] C:\Users\Etumusei\.android\build-cache\ba94fd6a77ee6f1e86d085480c7dc928b7b9b839\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Etumusei\.android\build-cache\37c72554682bab16114293d7464f0edd8be82c79\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Etumusei\.android\build-cache\fc455dd30814fb38535186f1f30aaa207ea53b5e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Etumusei\.android\build-cache\8217d9e446cd1ebb1198ff20880c71c7982edd36\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Etumusei\.android\build-cache\ff93c173ddc5a88ff650d623a0ad82887cca99b7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Etumusei\.android\build-cache\91dc113161c289fe9af95388d52a02685b18c463\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Etumusei\.android\build-cache\fc455dd30814fb38535186f1f30aaa207ea53b5e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\HabitApp\app\src\main\AndroidManifest.xml

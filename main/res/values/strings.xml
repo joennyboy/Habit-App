@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">HabitTracker app</string>
+    <string name="action">actionsav</string>
+
+    <!-- Name for the application [CHAR LIMIT=12] -->
+
+    <!-- Label for overflow menu option that inserts fake habit data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Data</string>
+
+    <!-- Label for overflow menu option that deletes all habit data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Habit</string>
+
+    <!-- Title for the activity to add of the babit[CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_habit">Add a Habit</string>
+
+    <!-- Label for editor menu option to save habit and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_eating">Eating</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_numbers">Number of cigarette smoked</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_excercise">Excercise</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_praying">Praying</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_habit_smoking">Smoking</string>
+
+    <!-- the number of pieces cigarette smoked of the habits (pieces) [CHAR LIMIT=5] -->
+    <string name="unit_habit_smoking">pieces</string>
+
+    <!-- Label for dropdown menu option for eating that is unknown [CHAR LIMIT=20] -->
+    <string name="eating_dinner">Dinner</string>
+
+    <!-- Label for dropdown menu for eating breakfast -->
+    <string name="eating_breakfast">Breakfast</string>
+
+    <!-- Label for menu for eating lunch -->
+    <string name="eating_lunch">Lunch</string>
+</resources>
